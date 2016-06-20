@@ -39,3 +39,42 @@ A collection of MPI programs to test MPI verification
 * https://github.com/cosminstefanxp/MPI-Image-Processor
 * https://github.com/wbhart/mpir-fft
 * https://github.com/schnorr/akypuera
+
+
+
+mpi applications
+
+* https://github.com/B0RJA/GAlib-mpi (application)
+* https://github.com/steflee/mpi-caffe (application)
+* https://github.com/USArmyResearchLab/mpi-epiphany (application)
+* https://github.com/codergirl/n_body_simulator (application)
+* https://github.com/albertovelam/HIT_MPI (application)
+* https://github.com/Convolution-filter/convolution-filter-MPI (application)
+* https://github.com/adilansari/luDecomposition (application)
+* https://github.com/schnorr/akypuera (application)
+
+
+
+mpi tag
+
+https://github.com/hpc/MPI-Examples/blob/master/bucket-sort/bucket_sort_pipeline.c (collectives, tag nondeterminism)
+https://github.com/hpc/MPI-Examples/blob/master/image-manip/image_manip.c
+https://github.com/hpc/MPI-Examples/blob/master/mandelbrot/mandel_bitmap.c (tag nondeterminism)
+https://github.com/carolineKer/parallelSorts/blob/master/src/bucket_sort.c (tag)
+
+
+
+mpi collectives
+
+https://github.com/hpc/MPI-Examples/blob/master/integration/integration.c
+hhttps://github.com/yoman07/mpi
+https://github.com/bluekingsong/mpi_logistic_regression 
+http://mpitutorial.com/tutorials/performing-parallel-rank-with-mpi/
+https://github.com/build3r/MPI/blob/master/pie_collective.c
+https://github.com/akshayv/mpi/blob/master/hamiltoncircle.c
+https://github.com/elzisiou/K-means/blob/master/Codes/Hybrid%20version/kmeans.c
+https://github.com/brettbuddin/acotsp
+https://github.com/dungtn/mpi-floyd/blob/master/floyd2d.c
+
+
+
